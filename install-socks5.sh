@@ -1,7 +1,4 @@
 #!/bin/bash
-
-
-
 # 获取当前用户名
 USER=$(whoami)
 WORKDIR="/home/${USER}/.nezha-agent"
